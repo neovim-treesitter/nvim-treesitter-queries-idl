@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
+  "url": "https://github.com/cathaysia/tree-sitter-idl",
+  "semver": false,
   "lang": "idl",
   "location": null,
-  "url": "https://github.com/cathaysia/tree-sitter-idl",
-  "semver": false
+  "parser_version": "fb65762a13538b397e41a5fc1e9564c9df841410"
 }
